@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://contrast.designresourcesdownload.com/sitemap.xml
