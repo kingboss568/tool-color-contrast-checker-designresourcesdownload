@@ -1,0 +1,45 @@
+Color Contrast Checker
+
+Color Contrast Checker is a practical design system workspace for brand designer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://contrast.designresourcesdownload.com/
+- https://contrast.designresourcesdownload.com/tool/
+- https://contrast.designresourcesdownload.com/workspace/
+- https://contrast.designresourcesdownload.com/reports/
+- https://contrast.designresourcesdownload.com/guides/
+- https://contrast.designresourcesdownload.com/library/
+- https://contrast.designresourcesdownload.com/templates/
+- https://contrast.designresourcesdownload.com/compare/
+- https://contrast.designresourcesdownload.com/checklists/
+- https://contrast.designresourcesdownload.com/integrations/
+- https://contrast.designresourcesdownload.com/settings/
+- https://contrast.designresourcesdownload.com/plans/
+- https://contrast.designresourcesdownload.com/faq/
+- https://contrast.designresourcesdownload.com/privacy/
+- https://contrast.designresourcesdownload.com/about/
+- https://contrast.designresourcesdownload.com/guides/check-color-contrast-1/
+- https://contrast.designresourcesdownload.com/guides/build-a-type-scale-2/
+- https://contrast.designresourcesdownload.com/guides/draft-a-brand-kit-3/
+- https://contrast.designresourcesdownload.com/guides/define-spacing-tokens-4/
+- https://contrast.designresourcesdownload.com/guides/compare-component-options-5/
+- https://contrast.designresourcesdownload.com/guides/export-design-notes-6/
+- https://contrast.designresourcesdownload.com/guides/check-color-contrast-7/
+- https://contrast.designresourcesdownload.com/guides/build-a-type-scale-8/
+- https://contrast.designresourcesdownload.com/guides/draft-a-brand-kit-9/
+- https://contrast.designresourcesdownload.com/guides/define-spacing-tokens-10/
+- https://contrast.designresourcesdownload.com/guides/compare-component-options-11/
+- https://contrast.designresourcesdownload.com/guides/export-design-notes-12/
+- https://contrast.designresourcesdownload.com/guides/check-color-contrast-13/
+- https://contrast.designresourcesdownload.com/guides/build-a-type-scale-14/
+- https://contrast.designresourcesdownload.com/guides/draft-a-brand-kit-15/
+- https://contrast.designresourcesdownload.com/guides/define-spacing-tokens-16/
+- https://contrast.designresourcesdownload.com/guides/compare-component-options-17/
+- https://contrast.designresourcesdownload.com/guides/export-design-notes-18/
+- https://contrast.designresourcesdownload.com/guides/check-color-contrast-19/
+- https://contrast.designresourcesdownload.com/guides/build-a-type-scale-20/
+- https://contrast.designresourcesdownload.com/guides/draft-a-brand-kit-21/
+- https://contrast.designresourcesdownload.com/guides/define-spacing-tokens-22/
+- https://contrast.designresourcesdownload.com/guides/compare-component-options-23/
+- https://contrast.designresourcesdownload.com/guides/export-design-notes-24/
+- https://contrast.designresourcesdownload.com/guides/check-color-contrast-25/
